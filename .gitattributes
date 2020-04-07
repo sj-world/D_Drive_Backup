@@ -1,2 +1,0 @@
-*.sys filter=lfs diff=lfs merge=lfs -text
-cfrbackup-ADMXQNXS filter=lfs diff=lfs merge=lfs -text
